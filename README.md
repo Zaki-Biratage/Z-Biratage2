@@ -1,36 +1,17 @@
-# Z-Biratage2
+git clone ....
 
-git cloni ....
+# dz.pkg.sh
+chmod +x dz.pkg.sh
+sh 'dz.pkg.sh'
 
-pkg update && pkg upgdate -y
-termux-setup-storage
-ls
-
-cd /data/data/com.termux/files/home/storage/downloads
-
-ls
-sh dz.pkg.sh
-# zd.pkg.sh
--------------------------
-git cloni .....
-
+# listpass.py
 chmod +x listpass.py
 python listpass.py
 
-
-# listpass.py
-----------------------
-git cloni .....
-python2 fb.py
-
-# fb.py
-
------------------------
-git cloni .....
-
+# gmailhack.py
+chmod +x gmailhack.py
 python2 gmailhack.py
 
-# gmailhack.py
-
-------------------------
-
+# fb.py
+chmod +x fb.py
+python2 fb.py
